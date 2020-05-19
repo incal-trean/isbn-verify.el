@@ -7,7 +7,7 @@
 ;;;
 ;;; Author: Emanuel Berg (incal) <moasenwood@zoho.eu>
 ;;; Keywords: isbn
-;;; License: GPL-3
+;;; License: GPL-3+
 ;;; Package-Requires ((cl-lib "1.0"))
 ;;; URL: https://github.com/incal-trean/isbn-verify.el/raw/master/isbn-verify.el
 ;;; Version: 1.0.0
